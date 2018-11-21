@@ -33,3 +33,62 @@
    </body>
 </html> 
 
+#headnav {
+  font-family:"roboto", serif;
+  background-color: lightgrey;
+  
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #e3e3e3;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: black; 
+}
+li a:active{
+    background-color:#4B3F72;
+}
+
+#bbox {
+    color:#333;
+}
+h2{
+    font-family: "roboto", serif;
+    color:#333;
+    background-color:#FBFAF9;
+   
+}
+p3{
+    color: #332;
+      background-color:#FBFAF9
+}
+#footernav{
+    display: block;
+    color: navy;
+    text-align: center;
+    padding: 0px 0px;
+    text-decoration: none;
+}
+
+    
+}
+
+
+
